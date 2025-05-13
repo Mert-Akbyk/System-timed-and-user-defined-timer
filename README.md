@@ -1,2 +1,1 @@
-# timer2.1
-![Ana Ekran](./img/home.png)
+#System timed and user defined timer.
